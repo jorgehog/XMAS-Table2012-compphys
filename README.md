@@ -15,6 +15,11 @@ Ask jorgen.hogberget(ALFAKRØLL!)fys.uio.no
 
 ---------------
 
+Please register when you want to attend at <http://www.doodle.com/czysdw6g37vq6g75/>
+
+
+---------------
+
 It will of course be in our new beatufil kitchen!
 
 Rules:
