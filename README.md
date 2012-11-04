@@ -15,7 +15,7 @@ Ask jorgen.hogberget(ALFAKRØLL!)fys.uio.no
 
 ---------------
 
-Please register when you want to attend at <http://www.doodle.com/czysdw6g37vq6g75/>
+Please register when you want to attend at <http://www.doodle.com/czysdw6g37vq6g75>
 
 
 ---------------
