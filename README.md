@@ -1,7 +1,7 @@
 XMAS-Table2012-compphys
 =======================
 
-![Alt text](./kr3_ratzeputz.jpg)
+![Alt text](kr3_ratzeputz.jpg)
 
 
 General information, attendance- and delicious bring-along list!
