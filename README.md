@@ -1,8 +1,8 @@
 XMAS-Table2012-compphys
 =======================
 
-[id]: http://2.bp.blogspot.com/_t_vhROeyIS4/SPZbbjMHaUI/AAAAAAAAAAk/sKk8ZNgTmrg/s1600-h/kr3_ratzeputz.jpg "X-MAS TABLE 2012"
-![Ratzeputz][id]
+![Ratzeputz](https://raw.github.com/jorgehog/XMAS-Table2012-compphys/master/kr3_ratzeputz.jpg "X-MAS TABLE 2012")
+
 
 
 General information, attendance- and delicious bring-along list!
