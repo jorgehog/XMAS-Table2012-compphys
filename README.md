@@ -1,9 +1,16 @@
 XMAS-Table2012-compphys
 =======================
 
+![Alt text](./kr3_ratzeputz.jpg)
+
+
 General information, attendance- and delicious bring-along list!
 
+Want to attend or update what you are bringing?
+Clone this repository and push your changes!
 
+Need collaborator access? 
+Ask jorgen.hogberget(ALFAKRØLL!)fys.uio.no
 
 ---------------
 
@@ -23,5 +30,6 @@ When?
 
 
 HAPPY TIMES!
+
 
  
