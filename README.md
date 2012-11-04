@@ -1,7 +1,8 @@
 XMAS-Table2012-compphys
 =======================
 
-![Alt text](kr3_ratzeputz.jpg)
+[id]: http://2.bp.blogspot.com/_t_vhROeyIS4/SPZbbjMHaUI/AAAAAAAAAAk/sKk8ZNgTmrg/s1600-h/kr3_ratzeputz.jpg "X-MAS TABLE 2012"
+![Ratzeputz][id]
 
 
 General information, attendance- and delicious bring-along list!
