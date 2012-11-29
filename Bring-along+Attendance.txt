@@ -6,6 +6,8 @@ Henrik S - python $ ("Something that goes along with " + 1) * ("Gin and Tonic")
 
 Sarah - Ikke noe norsk julebord uten tyske KRINGLER!
 
+Cecilie og Sigve - Mystisk kake! (Verdens kuleste)
+
 
 
 -----------------------------------------------------------------------
