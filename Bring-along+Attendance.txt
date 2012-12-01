@@ -1,4 +1,4 @@
-Jørgen - The best meat balls in the world! mmm balls. And ratzeputz. Of course!
+Jï¿½rgen - The best meat balls in the world! mmm balls. And ratzeputz. Of course!
 
 Morten - Fish something something italian something something
 
@@ -7,6 +7,8 @@ Henrik S - python $ ("Something that goes along with " + 1) * ("Gin and Tonic")
 Sarah - Ikke noe norsk julebord uten tyske KRINGLER!
 
 Cecilie og Sigve - Mystisk kake! (Verdens kuleste)
+
+Christoffer - Rakfisk nam nam
 
 
 
